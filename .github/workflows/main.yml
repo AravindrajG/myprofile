@@ -1,7 +1,7 @@
 name: Nminds Academy Demo:Push-to-EC2
 
 # Trigger deployment only on push to main branch
-on:
+on: 
   push:
     branches:
       - main
