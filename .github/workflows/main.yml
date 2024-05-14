@@ -1,6 +1,6 @@
 name: CI/CD for NmindsAcademy-Demo
 
-on:
+ on:
  push:
    branches:
       - main
